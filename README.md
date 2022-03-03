@@ -1,6 +1,5 @@
-## Springboot Skeleton Project
+## Springboot Metrics Project
 
 ### Features
 - Contains springboot-starter-web which is used for Backend Web Applications
-- Uncomment to use springboot-devtools
-- Uncomment to use springboot-actuator
+- Explore different ways to send metrics to monitoring systems
